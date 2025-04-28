@@ -101,4 +101,3 @@ python ui.py
 - **[Khadija Saeed]** 
 - **[Hira Sohail]** 
 - **[Ufaq Hafeez]** 
-- **[Member 3's Name]** 
